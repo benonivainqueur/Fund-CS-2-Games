@@ -1,2 +1,2 @@
-# Fund.-CS-2-Games
+# Fund-CS-2-Games
 Fun Games!
